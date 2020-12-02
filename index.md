@@ -1,10 +1,8 @@
 ## Kristijan Kralj - Portfolio
 
-You can use the [editor on GitHub](https://github.com/kristijankralj/kristijankralj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Kristijan. I am a software developer with almost a decade of experience in developing professional apps. This portoflio brings some of the recent mobile projects I was working on (aka the brag page, heh).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Repeatify
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
