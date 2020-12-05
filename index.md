@@ -15,3 +15,6 @@ Repeatify is a simple countdown timer for all your workout routines.
 - Lottie Animations
 - Unit Tests
 - Fastlane
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
