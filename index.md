@@ -16,5 +16,7 @@ Repeatify is a simple countdown timer for all your workout routines.
 - Unit Tests
 - Fastlane
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+<p float="left">
+  <img src="screenshot1.png" alt="screenshot1" width="30%" height="30%"/>
+  <img src="screenshot2.png" alt="screenshot2" width="30%" height="30%"/>
+</p>
