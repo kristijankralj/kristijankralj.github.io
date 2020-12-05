@@ -12,6 +12,7 @@ Repeatify is a simple countdown timer for all your workout routines.
 
 - SwiftUI
 - MVVM
+- Swift Package Manager
 - Lottie Animations
 - Unit Tests
 - Fastlane
