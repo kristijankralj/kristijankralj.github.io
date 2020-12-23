@@ -43,5 +43,5 @@ Stacy is a roommate finding app. Think Tinder, but for roommates.
 - Fastlane
 - UI Test for Screenshot Taking
 
-
+![alt text](stacy_1_rotato.png "Stacy")
 
