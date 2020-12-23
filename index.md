@@ -20,10 +20,7 @@ Repeatify is a simple countdown timer for all your workout routines.
 - Fastlane
 - UI Test for Screenshot Taking
 
-<p float="left">
-  <img src="screenshot1.png" alt="screenshot1" width="40%" height="40%"/>
-  <img src="screenshot2.png" alt="screenshot2" width="40%" height="40%"/>
-</p>
+![alt text](repeatify_1_rotato.png "Repeatify")
 
 ## Stacy
 
